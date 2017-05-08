@@ -10,7 +10,7 @@ div.frames {
 	text-align: center;
 	}
 div.frame {
-	margin: 1px;
+	margin: 2px 1px 2px 1px;
 	display: inline-block;
 	background-color: #000;
 	border: 1px solid #404040;
