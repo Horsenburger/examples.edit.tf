@@ -10,14 +10,11 @@ div.frames {
 	text-align: center;
 	}
 div.frame {
-	margin: 2px 1px 2px 1px;
+	margin: 1px 0 2px 0;
 	display: inline-block;
 	background-color: #000;
 	border: 1px solid #404040;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
-	padding: 3px;
+	padding: 1px;
 	}
 div.frame img {
 	}
