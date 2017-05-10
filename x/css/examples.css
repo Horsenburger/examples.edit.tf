@@ -1,0 +1,33 @@
+body {
+	padding: 1em 3em 1em 3em;
+	line-height: 1.5;
+	background-color: #202020;
+	color: #ccc;
+	}
+a {
+	color: #ff6;
+	}
+div.frames {
+	text-align: center;
+	}
+div.frame {
+	margin: 1px 0 2px 0;
+	display: inline-block;
+	background-color: #000;
+	border: 1px solid #404040;
+	padding: 1px;
+	}
+div.frame img {
+	margin: 0;
+	padding: 0;
+	}
+h1 {
+	text-align: center;
+	font-size: 1.5em;
+	}
+table.multi {
+	margin: 0 auto 0 auto;
+	}
+table.multi tr td {
+	vertical-align: top;
+	}
